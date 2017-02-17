@@ -15,7 +15,10 @@ The steps:
 
 Then the folder will be created automatically.
 
+
 - How to move file from one folder to another?
 
-1. Edit the file
+The steps:
+
+1. Edit this file
 2. Change to the path of target folder
