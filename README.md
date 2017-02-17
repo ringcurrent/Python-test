@@ -3,7 +3,7 @@ test codes in learning Python
 
 # memo
 
-- How to create folder in HitHub
+- How to create folder in HitHub?
 
 You can create a new folder from the web interface of GitHub, 
 however, it would require you to have at least one file within the folder when creating it.
@@ -15,3 +15,7 @@ The steps:
 
 Then the folder will be created automatically.
 
+- How to move file from one folder to another?
+
+1. Edit the file
+2. Change to the path of target folder
