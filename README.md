@@ -1,2 +1,2 @@
 # Python-test
-test code in learning Python
+test codes in learning Python
